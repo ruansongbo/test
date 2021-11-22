@@ -1,3 +1,0 @@
-/home/ruansongbo/hello_syrius/build/CMakeFiles/rebuild_cache.dir
-/home/ruansongbo/hello_syrius/build/CMakeFiles/edit_cache.dir
-/home/ruansongbo/hello_syrius/build/CMakeFiles/test.dir
